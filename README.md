@@ -1,6 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<span>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=southernwind&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</span>
+<span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=southernwind&layout=compact" />
-</a>
+</span>
